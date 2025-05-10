@@ -12,5 +12,8 @@
         "--profile",
         "black"
     ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
     "editor.detectIndentation": false,
 }
